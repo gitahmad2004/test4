@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/test4.git/static/css/main.4c42214c.css",
+    "main.js": "/test4.git/static/js/main.b0aea149.js",
+    "static/js/453.bea66239.chunk.js": "/test4.git/static/js/453.bea66239.chunk.js",
+    "static/media/slide23.jpg": "/test4.git/static/media/slide23.848bc3cf9744886d4732.jpg",
+    "static/media/slick.svg": "/test4.git/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/test4.git/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/test4.git/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/test4.git/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/test4.git/index.html",
+    "main.4c42214c.css.map": "/test4.git/static/css/main.4c42214c.css.map",
+    "main.b0aea149.js.map": "/test4.git/static/js/main.b0aea149.js.map",
+    "453.bea66239.chunk.js.map": "/test4.git/static/js/453.bea66239.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c42214c.css",
+    "static/js/main.b0aea149.js"
+  ]
+}
